@@ -1,9 +1,9 @@
 # Julia Kurnevich
 
- Female, 28 years old, born on _14 December 1991_
+ Female, 28 years old, born on _14 December 1991_\
  __Minsk, Belarus__
 
- [jkurnevich@gmail.com](mailto:jkurnevich@gmail.com)
+ [jkurnevich@gmail.com](mailto:jkurnevich@gmail.com)\
  +375-29-567-88-39
 
  GitHub: [@jkurnevich](https://github.com/jkurnevich)\
