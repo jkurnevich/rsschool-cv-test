@@ -13,7 +13,11 @@ Instagram: [julia_kurnevich](https://www.instagram.com/julia_kurnevich/)
 
 ## About me
 
+Work as a Web Software Developer. Self-taught in this area. Interested in new web technologies.
 
+Know how to understand someone else's skin.
+
+Learn quickly, responsible, diligent, punctual.
 
 ## Technical Skills
 
@@ -43,19 +47,19 @@ _February 2015 — Currently_
   * Joomla
   * Wordpress
 
-  **Content Manager**
+**Content Manager**
 
-  ООО "Инолта"
+ООО "Инолта"
 
-  _February 2014 — February 2015_
+_February 2014 — February 2015_
 
-  * Experience in CMS
-    * Joomla
-    * Wordpress
-    * Drupal
-    * OpenCart
-  * Adding content to company websites
-  * Editing of commodity items
+* Experience in CMS
+  * Joomla
+  * Wordpress
+  * Drupal
+  * OpenCart
+* Adding content to company websites
+* Editing of commodity items
 
 ## Languages
 
