@@ -16,9 +16,9 @@ Instagram: [julia_kurnevich](https://www.instagram.com/julia_kurnevich/)
 
 Work as a Web Software Developer. Engaged in self-education in this area. Interested in new web technologies.
 
-Know how to understand someone else's skin.
+Can understand someone else’s code and work in a team.
 
-Learn quickly, responsible, diligent, punctual.
+Fast-learning, responsible, diligent, punctual.
 
 ## Technical Skills
 
