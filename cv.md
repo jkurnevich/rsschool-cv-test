@@ -22,14 +22,14 @@ Fast-learning, responsible, diligent, punctual.
 
 ## Technical Skills
 
-**Coding Languages:**\
+**Coding Languages:**
 * HTML/HTML5
 * CSS/CSS3
 * JS
 * jQuery
 * PHP
 
-**Frameworks/Systems:**\
+**Frameworks/Systems:**
 * Bootstrap
 * UIkit
 * Figma
