@@ -13,7 +13,7 @@ Instagram: [julia_kurnevich](https://www.instagram.com/julia_kurnevich/)
 
 ## About me
 
-Work as a Web Software Developer. Self-taught in this area. Interested in new web technologies.
+Work as a Web Software Developer. Engaged in self-education in this area. Interested in new web technologies.
 
 Know how to understand someone else's skin.
 
