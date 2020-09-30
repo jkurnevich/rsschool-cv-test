@@ -11,17 +11,17 @@ Skype: [julia_kurnevich](skype:julia_kurnevich)\
 LinkedIn: [@jkurnevich](www.linkedin.com/in/jkurnevich)\
 Instagram: [julia_kurnevich](https://www.instagram.com/julia_kurnevich/)
 
-### About me
+## About me
 
 
 
-### Technical Skills
+## Technical Skills
 
 * HTML/HTML5, CSS/CSS3, JS, jQuery, PHP, Bootstrap, UIkit
 * Figma, Photoshop
 * Git
 
-### Education
+## Education
 
 **Belarusian National Technical University**\
 _Minsk_ | _2009 - 2014_
@@ -31,11 +31,33 @@ _Information Technology Software_
 
 Qualification __Software Еngineer__
 
-### Work Experience
+## Work Experience
 
+**Web Software Developer**
 
+ООО "Инолта"
 
-### Languages
+_February 2015 — Currently_
+
+* Development of corporate websites based on CMS
+  * Joomla
+  * Wordpress
+
+  **Content Manager**
+
+  ООО "Инолта"
+
+  _February 2014 — February 2015_
+
+  * Experience in CMS
+    * Joomla
+    * Wordpress
+    * Drupal
+    * OpenCart
+  * Adding content to company websites
+  * Editing of commodity items
+
+## Languages
 
 * Russian — Native
 * English — A2 — Elementary
