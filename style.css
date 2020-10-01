@@ -1,0 +1,26 @@
+/* * * * *
+ * Global setting
+ * * * * */
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 9px;
+  background-color: #edf0f2;
+}
+
+main {
+  max-width: 800px;
+  min-width: 800px;
+  background-color: rgb(254, 254, 250);
+  box-shadow: 0 2px 8px rgba(14, 19, 24, .07);
+  height: 98vh;
+  margin: 20px auto;
+  display: flex;
+}
+
+.sidebar {
+  background-color: rgb(73, 78, 95);
+  width: 34%;
+  height: auto;
+  margin: 10px 0;
+  padding: 80px 50px;
+}
