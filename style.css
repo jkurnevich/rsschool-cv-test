@@ -1,18 +1,33 @@
 /* * * * *
  * Global setting
  * * * * */
-body {
+html {
   font-family: 'Montserrat', sans-serif;
-  font-size: 9px;
+  font-size: 14px;
   background-color: #edf0f2;
 }
 
+h1 {
+  color: #ffe7d4;
+  font-size: 2.9rem;
+  text-transform: uppercase;
+  line-height: 2.6rem;
+  margin-bottom: 0;
+}
+
+h2 {
+  font-size: 1.2rem;
+  text-transform: uppercase;
+}
+
+/*
+ * Component section main
+ */
 main {
   max-width: 800px;
   min-width: 800px;
   background-color: rgb(254, 254, 250);
   box-shadow: 0 2px 8px rgba(14, 19, 24, .07);
-  height: 98vh;
   margin: 20px auto;
   display: flex;
 }
@@ -23,4 +38,44 @@ main {
   height: auto;
   margin: 10px 0;
   padding: 80px 50px;
+}
+
+.sidebar .cv-photo img {
+  width: 80%;
+  border-radius: 150px;
+  margin: 0 auto;
+  display: block;
+}
+
+.name-candidate {
+  border-bottom: 3px solid #ffe7d4;
+  padding-bottom: 20px;
+  margin-bottom: 30px;
+}
+
+.name-candidate .profession {
+  color: #fefefa;
+}
+
+.sidebar h2 {
+  color: #ffe7d4;
+}
+
+.sidebar {
+  color: #fefefa;
+}
+
+.contact-information ul {
+  padding: 0;
+}
+
+.contact-information ul li {
+  list-style-type: none;
+  line-height: 25px;
+  padding-left: 30px;
+}
+
+.contact-information ul li a {
+  color: #fefefa;
+  text-decoration: none;
 }
