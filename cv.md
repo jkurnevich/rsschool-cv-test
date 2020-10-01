@@ -54,9 +54,7 @@ Qualification __Software Еngineer__
 
 **Web Software Developer**
 
-ООО "Инолта"
-
-_February 2015 — Currently_
+Inolta LTD | _February 2019 — Currently_
 
 Development of corporate websites based on CMS
   * Joomla
