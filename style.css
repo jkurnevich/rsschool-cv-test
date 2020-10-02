@@ -167,6 +167,8 @@ main {
   color: #b5b5b5;
   font-size: 0.8rem;
   margin-right: 5px;
+  width: 33px;
+  display: inline-block;
 }
 
 /*
