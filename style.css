@@ -46,7 +46,7 @@ main {
   margin-bottom: 30px;
 }
 
-.name-candidate .profession {
+.name-candidate__profession {
   color: #fefefa;
 }
 
@@ -73,31 +73,31 @@ main {
   margin-left: 10px;
 }
 
-.contact-information ul .location {
+.contact-information__location {
   background-image: url(icons/location.png);
 }
 
-.contact-information ul .phone {
+.contact-information__phone {
   background-image: url(icons/phone.png);
 }
 
-.contact-information ul .message {
+.contact-information__message {
   background-image: url(icons/message.png);
 }
 
-.contact-information ul .github {
+.contact-information__github {
   background-image: url(icons/github.png);
 }
 
-.contact-information ul .linkedin {
+.contact-information__linkedin {
   background-image: url(icons/link.png);
 }
 
-.contact-information ul .skype {
+.contact-information__skype {
   background-image: url(icons/skype.png);
 }
 
-.contact-information ul .instagram {
+.contact-information__instagram {
   background-image: url(icons/inst.png);
 }
 
@@ -130,40 +130,38 @@ main {
   margin-top: 50px;
 }
 
-.education .place,
-.work-experience .place {
+.content-area_bold {
   font-weight: 600;
 }
 
-.education .time-profession,
-.work-experience .time-profession {
+.content-area_gray {
   margin-top: -10px;
   color: #b5b5b5;
   font-size: 0.9rem;
 }
 
-.technikal-skills .wrap-section-skills {
+.technikal-skills .technikal-skills__lists {
   display: flex;
 }
 
-.technikal-skills .wrap-section-skills div {
+.technikal-skills .technikal-skills__lists div {
   width: 50%;
 }
 
-.technikal-skills .wrap-section-skills p {
+.technikal-skills .technikal-skills__lists p {
   font-weight: 600;
   margin-top: 0
 }
 
-.technikal-skills .wrap-section-skills .code {
+.technikal-skills__code {
   padding: 0;
 }
 
-.technikal-skills .wrap-section-skills .code li {
+.technikal-skills__code li {
   list-style-type: none;
 }
 
-.technikal-skills .wrap-section-skills .code li span {
+.technikal-skills__code li span {
   color: #b5b5b5;
   font-size: 0.8rem;
   margin-right: 5px;
