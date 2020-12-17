@@ -1,0 +1,225 @@
+html {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 14px;
+  background-color: #edf0f2;
+}
+
+h1 {
+  color: #ffe7d4;
+  font-size: 2.9rem;
+  text-transform: uppercase;
+  line-height: 2.6rem;
+  margin-bottom: 0;
+}
+
+h2 {
+  font-size: 1.2rem;
+  text-transform: uppercase;
+}
+
+main {
+  max-width: 800px;
+  background-color: rgb(254, 254, 250);
+  box-shadow: 0 2px 8px rgba(14, 19, 24, .07);
+  margin: 20px auto;
+  display: flex;
+}
+
+.sidebar {
+  background-color: rgb(73, 78, 95);
+  width: 34%;
+  height: auto;
+  margin: 10px 0;
+  padding: 80px 50px;
+}
+
+.sidebar .cv-photo img {
+  width: 80%;
+  border-radius: 150px;
+  margin: 0 auto;
+  display: block;
+}
+
+.name-candidate {
+  border-bottom: 3px solid #ffe7d4;
+  padding-bottom: 20px;
+  margin-bottom: 30px;
+}
+
+.name-candidate__profession {
+  color: #fefefa;
+}
+
+.sidebar h2 {
+  color: #ffe7d4;
+  margin-top: 40px;
+}
+
+.sidebar {
+  color: #fefefa;
+}
+
+.contact-information ul {
+  padding: 0;
+}
+
+.contact-information ul li {
+  list-style-type: none;
+  line-height: 26px;
+  padding-left: 30px;
+  background-size: 16px;
+  background-repeat: no-repeat;
+  background-position: 0px 50%;
+  margin-left: 10px;
+}
+
+.contact-information__location {
+  background-image: url(icons/location.png);
+}
+
+.contact-information__phone {
+  background-image: url(icons/phone.png);
+}
+
+.contact-information__message {
+  background-image: url(icons/message.png);
+}
+
+.contact-information__github {
+  background-image: url(icons/github.png);
+}
+
+.contact-information__linkedin {
+  background-image: url(icons/link.png);
+}
+
+.contact-information__skype {
+  background-image: url(icons/skype.png);
+}
+
+.contact-information__instagram {
+  background-image: url(icons/inst.png);
+}
+
+.contact-information ul li a {
+  color: #fefefa;
+  text-decoration: none;
+}
+
+.languages ul {
+  padding: 0;
+}
+
+.languages ul li {
+  list-style-type: none;
+}
+
+.content-area {
+  padding: 30px 35px;
+  color: #494e5f;
+  width: 66%;
+}
+
+.content-area h2 {
+  background-color: #ffe7d4;
+  padding: 10px 20px;
+  font-weight: 600;
+}
+
+.content-area section {
+  margin-top: 50px;
+}
+
+.content-area_bold {
+  font-weight: 600;
+}
+
+.content-area_gray {
+  margin-top: -10px;
+  color: #b5b5b5;
+  font-size: 0.9rem;
+}
+
+.technikal-skills .technikal-skills__lists {
+  display: flex;
+}
+
+.technikal-skills .technikal-skills__lists div {
+  width: 50%;
+}
+
+.technikal-skills .technikal-skills__lists p {
+  font-weight: 600;
+  margin-top: 0
+}
+
+.technikal-skills__code {
+  padding: 0;
+}
+
+.technikal-skills__code li {
+  list-style-type: none;
+}
+
+.technikal-skills__code li span {
+  color: #b5b5b5;
+  font-size: 0.8rem;
+  margin-right: 5px;
+  width: 33px;
+  display: inline-block;
+}
+
+/*
+ * Section media
+ */
+@media (max-width: 900px) {
+  main {
+    max-width: unset;
+  }
+}
+
+@media (max-width: 767px) {
+  html {
+    font-size: 12px;
+  }
+}
+
+@media (max-width: 680px) {
+  .sidebar .cv-photo img {
+    width: 55%;
+  }
+
+  html {
+    font-size: 14px;
+  }
+
+  main {
+    flex-direction: column;
+  }
+
+  .sidebar, .content-area {
+    width: auto;
+  }
+
+  .content-area {
+    padding: 0px 20px 30px;
+  }
+
+  .name-candidate {
+    margin-bottom: 0;
+  }
+}
+
+@media (max-width: 480px) {
+  .sidebar {
+    padding: 45px 40px;
+  }
+
+  .sidebar .cv-photo img {
+    width: 75%;
+  }
+
+  h1 {
+    font-size: 2.5rem;
+  }
+}
