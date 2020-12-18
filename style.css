@@ -120,6 +120,10 @@ main {
   width: 66%;
 }
 
+.content-area a {
+  color: #494e5f;
+}
+
 .content-area h2 {
   background-color: #ffe7d4;
   padding: 10px 20px;
